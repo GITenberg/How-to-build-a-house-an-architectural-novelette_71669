@@ -1,0 +1,35 @@
+_repo: How-to-build-a-house-an-architectural-novelette_71669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Viollet-le-Duc, Eugène-Emmanuel
+    aliases:
+    - Viollet-le-Duc, Eugene-Emmanuel
+    - Viollet-le-Duc, E. (Eugène)
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '8223'
+    url: http://www.gutenberg.org/2009/agents/8223
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+    - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+description: ''
+gutenberg_issued: '2023-09-17'
+identifiers:
+  gutenberg: '71669'
+language: en
+pgterms:marc904: https://archive.org/details/howtobuildhousea00viol
+pgterms:marc905: 20230219045159violletled
+pgterms:marc906: '1874'
+pgterms:marc907: GB
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bSampson Low, Marston, Low, and Searle, $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'How to build a house: an architectural novelette'
+url: http://www.gutenberg.org/ebooks/71669
