@@ -1,5 +1,8 @@
 _repo: How-to-build-a-house-an-architectural-novelette_71669
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71669-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Viollet-le-Duc, Eugène-Emmanuel
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
     - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71669#How-to-build-a-house-an-architectural-novelette
 gutenberg_issued: '2023-09-17'
 identifiers:
   gutenberg: '71669'
